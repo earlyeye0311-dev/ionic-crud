@@ -1,2 +1,29 @@
 /* For information on how to create your own theme, please refer to:
 http://ionicframework.com/docs/theming/ */
+:root {
+  /* Modern Purple Primary */
+  --ion-color-primary: #08ac39;
+  --ion-color-primary-rgb: 108, 92, 231;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #5f51cb;
+  --ion-color-primary-tint: #7b6be9;
+
+  /* Teal Secondary */
+  --ion-color-secondary: #00cec9;
+  --ion-color-secondary-rgb: 0, 206, 201;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+  --ion-color-secondary-shade: #00b5b1;
+  --ion-color-secondary-tint: #1ad3ce;
+
+  /* Danger (Red) */
+  --ion-color-danger: #ff7675;
+  --ion-color-danger-rgb: 255, 118, 117;
+  --ion-color-danger-contrast: #ffffff;
+  
+  /* Background & Text */
+  --ion-background-color: #f4f6f9;
+  --ion-text-color: #2d3436;
+  --ion-font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
